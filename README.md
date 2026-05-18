@@ -8,4 +8,4 @@ Guides and scripts from my YouTube channel.
 - [No-Nag Fix](Proxmox/No-Nag/)
 
 ## 📺 YouTube
-[Your Channel](https://www.youtube.com/channel/UCWeWnYm7jhFUaPkDUMkXWFg)
+[Click Here](https://www.youtube.com/channel/UCWeWnYm7jhFUaPkDUMkXWFg)
