@@ -91,7 +91,7 @@ with hardware keys like YubiKey.
 ---
 
 ## 📺 Video Tutorial
-[Watch on YouTube](YOUR_YOUTUBE_LINK_HERE)
+[Watch on YouTube](https://youtu.be/XBcIquWyw70)
 
 ## ⚠️ Note
 This guide is for homelab and personal use. 
