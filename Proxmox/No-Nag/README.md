@@ -58,4 +58,4 @@ EOF
 For homelab and personal use only.
 
 ## 📺 Video Tutorial
-[Watch on YouTube](YOUR_LINK_HERE)
+[Watch on YouTube](https://youtu.be/UemDsaDp3EU)
